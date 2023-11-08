@@ -1,0 +1,52 @@
+body{
+    background-image: url(../images/denglu.jpg);
+    background-size: cover;
+}
+.entry {
+width: 420px;
+height: 350px;
+background-color: rgba(253,230, 280,0.4);
+border: 1px solid rgba(253,230, 280,0.4);
+position: relative;
+left: 580px;
+}
+.left {
+float: left;
+padding-top: 20px;
+padding-left: 15px;
+font-size: 20px;
+/*color: blue;*/
+font-weight: 500;
+}
+.right {
+float: right;
+float: top;
+width: 150px;
+background-repeat: no-repeat;
+background-position: 50px 20px;
+font-size: 15px;
+/*color: rgb(0, 229, 255);*/
+font-weight: 500;
+position: relative;
+top: 300px;
+/*right: 10px;*/
+text-indent: 70px;
+}
+.n1{
+position: relative;
+top: -250px;
+}
+
+.n2{
+position: relative;
+top: -250px;
+}
+.n3{
+position: relative;
+top: -200px;
+}
+.n3 input{
+width: 150px;
+height: 35px;
+/*color: pink;*/
+}
